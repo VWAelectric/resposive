@@ -1,2 +1,2 @@
-# resposive
-Essa é uma ideia de layout responsivo para criar um site com suas medias queries adicionadas para se adaptar em diferentes tamanhos de telas.
+# Resposive Site
+Essa é uma ideia de layout responsivo,onde adicionamos as medias queries para se adaptar em diferentes tamanhos de telas.
